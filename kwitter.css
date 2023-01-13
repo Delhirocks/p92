@@ -1,0 +1,10 @@
+html,body
+{
+    height:120%;
+    margin: 1px;;
+}
+
+body
+{
+    background-image:linear-gradient(to right top, green, black,gold,red,blue);
+}
